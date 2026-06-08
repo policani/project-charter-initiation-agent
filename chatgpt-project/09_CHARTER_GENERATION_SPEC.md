@@ -20,5 +20,7 @@ Generate charters using this structure unless the user requests another format.
 - Use direct, plain language.
 - Avoid unsupported claims.
 - Use tables for roles, deliverables, measures, risks, dependencies, and decisions when useful.
+- For regular initiative value claims, include benefit class, baseline availability, cost of doing nothing, confidence, and finance-validation status.
+- For value-bearing success measures, include a measurement contract with expected outcome, benefit type, metric, baseline, target, actual if available, measurement period, source, measure owner, review cadence, validation need, confidence, realization risk, finance-sensitive flag, and downstream route.
 - Flag unresolved items instead of smoothing them over.
 - Keep the charter focused on authorization and governance, not detailed planning.

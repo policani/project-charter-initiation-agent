@@ -37,9 +37,21 @@
 
 ## 6. Success Measures
 
-| Measure | Target | Owner | Evidence Source |
-|---|---|---|---|
-| [Insert] | [Insert] | [Insert] | [Insert] |
+| Measure | Benefit Class | Baseline | Target | Owner | Evidence Source | Finance Validation Status |
+|---|---|---|---|---|---|---|
+| [Insert] | Hard financial / Cost avoidance / Revenue protection / Mission value / Risk reduction / Quality-rework / Cycle time / Customer-employee experience / Compliance-control / Strategic option value | [Insert] | [Insert] | [Insert] | [Insert] | Validated / Pending / Not required / Not finance-ready |
+
+### Value Gate
+
+| Benefit claim | ROI eligible? | Cost of doing nothing | Assumptions | Confidence | Follow-up route |
+|---|---|---|---|---|---|
+| [Insert] | Yes / No / Not yet | [Insert] | [Insert] | High / Medium / Low | Value Ledger / PMO Log / Executive Review / None |
+
+### Measurement Contract, If Value Is Claimed
+
+| Expected outcome | Benefit type | Metric | Baseline | Target | Actual, if available | Measurement period | Source | Measure owner | Review cadence | Validation need | Confidence | Realization risk | Finance-sensitive flag | Downstream route |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| [Insert] | [Insert] | [Insert] | [Insert] | [Insert] | [Insert] | [Insert] | [Insert] | [Insert] | [Insert] | [Insert] | High / Medium / Low | High / Medium / Low | Yes / No / Unknown | Value Ledger / PMO Log / Executive Review / None |
 
 ## 7. Assumptions and Constraints
 

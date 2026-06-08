@@ -44,3 +44,8 @@ Ask only the highest-value missing questions.
 
 - What measurable success conditions will be used?
 - What adoption, operational, financial, compliance, customer, or technical outcomes matter?
+- What benefit class is being claimed: hard financial, cost avoidance, revenue protection, mission value, risk reduction, quality/rework, cycle time, customer/employee experience, compliance/control, or strategic option value?
+- Is the baseline measured, estimated, proxy-based, or missing?
+- What is the cost of doing nothing or delaying?
+- Who must validate finance-sensitive claims before they are used as ROI?
+- Which benefits belong in the charter as success measures, and which require a business case or value ledger follow-up?

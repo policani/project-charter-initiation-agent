@@ -14,4 +14,9 @@ When asked for DOCX-ready content, provide clear headings, tables, and concise l
 
 ## Quality review
 
-Always offer a separate charter quality review after drafting. Keep review findings separate from the final charter so the charter remains clean.
+Always offer a separate charter quality review after drafting. Keep review
+findings separate from the final charter so the charter remains clean. Include a
+value-gate check when the charter contains benefit claims: benefit class,
+baseline availability, cost of doing nothing, confidence, finance-validation
+status, and whether the claim belongs in ROI language or only in success-measure
+follow-up.
