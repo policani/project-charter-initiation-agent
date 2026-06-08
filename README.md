@@ -168,3 +168,7 @@ project charter template, project initiation, PMBOK Guide aligned, PMP, project 
 ## Human-control principle
 
 The system can interview, organize, challenge, draft, and review. A human still owns project authorization, sponsor commitment, finance validation, delivery feasibility, risk acceptance, and governance approval.
+
+## License
+
+Source code and scripts are licensed under MIT. Documentation, prompts, templates, examples, and other non-code materials are licensed under CC BY 4.0 with attribution to Marco Policani. See `LICENSE.md`.
