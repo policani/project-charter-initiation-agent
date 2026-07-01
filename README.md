@@ -30,6 +30,26 @@ Before: a project has enough intent to start moving, but scope, sponsor authorit
 
 After: the work is framed as a sponsor-ready charter that defines why the project exists, what is authorized, who owns decisions, what is in and out of scope, what must be governed, and how the project moves into planning and execution.
 
+## July 2026 positioning update
+
+Customer-language research reinforced a key boundary: this product should not
+make vague ideas look authorized. The public positioning should emphasize that a
+charter starts after enough intent, evidence, sponsorship, or business-case logic
+exists to define authorization and execution guardrails.
+
+Lead with:
+
+- what problem is being solved;
+- what is authorized now versus explicitly out of scope;
+- who owns sponsorship, decisions, success measures, and change control;
+- what assumptions, constraints, risks, dependencies, and open decisions remain;
+- which downstream module should receive unresolved scoring, capacity, release,
+  value, or controls questions.
+
+The module is structurally strong. The improvement target is making the README
+and examples even clearer that chartering is authorization framing, not business
+case invention or autonomous approval.
+
 ## Compact workflow diagram
 
 GitHub renders the workflow below directly from Mermaid. A rendered PDF is also included for offline review or portfolio sharing.
